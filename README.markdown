@@ -70,3 +70,5 @@ To include dust-helpers, add require `dust-helpers` after `dust-core` in applica
 
 
 All done. Your template files will be compiled and registered.
+
+Updated to Dust 2.3.1
